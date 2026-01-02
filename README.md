@@ -3,6 +3,10 @@ This repository contains the code and datasets used in the experiments of our re
 
 ## Structure of the Repository
 
+### `CLCFinder` folder
+This folder contains CLCFinder, a tool designed for cross-language code analysis.
+Detailed information about the tool, including its functionality and usage workflow, can be found in the README located in this folder.
+
 ### `datasets` folder
 Contains all experimental datasets for the four research questions (RQs):
 - `RQ1`: Cross-language datasets (without code comments version)
