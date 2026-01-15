@@ -3,7 +3,13 @@ This repository contains the code and datasets used in the experiments of our re
 
 ## Structure of the Repository
 
+### `CLB_construct_scripts` folder
+
+This foler provides the implementation and usage workflow for the CLB dataset construction process.
+It encapsulates a modular, step-by-step pipeline for mining multilingual GitHub repositories, linking issues with fixing commits, identifying cross-language interactions, and systematically curating high-quality Cross-Language Bug instances for empirical analysis.
+
 ### `CLCFinder` folder
+
 This folder contains CLCFinder, a tool designed for cross-language code analysis.
 Detailed information about the tool, including its functionality and usage workflow, can be found in the README located in this folder.
 
